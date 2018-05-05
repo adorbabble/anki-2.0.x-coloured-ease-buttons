@@ -22,7 +22,7 @@ min-width: 60px; white-space: nowrap;
 .spacer { height: 18px; }
 .spacer2 { height: 16px; }
 .btn-ease { padding: 0; border: none; border-radius: 3px }
-.btn-ease:focus { outline: none; box-shadow: 1px 1px 4px 2px rgba(255, 190, 14, .7); }
+.btn-ease:focus { outline: none; box-shadow: 0px 0px 15px 6px rgba(255, 190, 14, .7); }
 .btn-i-ease { color: white; font-weight: bold; padding: 5px }
 .btn-i-again { background: #d32f2f }
 .btn-i-hard { background: #455a64 }
